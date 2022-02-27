@@ -2,7 +2,7 @@
 
 
 
-### I'm from Ordu/Turkey, I'm Student 👨‍🎓, Developer 🚀, Photographer 📷, and Researcher  👨🏻‍💻!
+### I'm from Turkey, I'm Student 👨‍🎓, Developer 🚀, Photographer 📷, and Researcher  👨🏻‍💻!
 - 🌱 I’m currently learning <b>.NetCore,Java,JavaScript<b/>
 - 🔭 I’m currently developing myself on <b>Software Development<b/>
 - 💻 I love writing code and learn anythings about it  
